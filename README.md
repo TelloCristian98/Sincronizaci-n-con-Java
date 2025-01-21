@@ -1,2 +1,2 @@
-# Sincronizaci-n-con-Java
+# Sincronizacion-con-Java
 Sincronización con Java
